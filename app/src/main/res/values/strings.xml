@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="arithmos_2">Αριθμός 2</string>
+    <string name="arithmos_1">"Αριθμός 1 "</string>
+    <string name="prosthesis">+</string>
+    <string name="Afairesi">-</string>
+    <string name="pollaplasiasmos">*</string>
+    <string name="Diairesi">/</string>
+    <string name="_1_x">1/x</string>
+    <string name="log">Log</string>
+    <string name="ln">Ln</string>
+    <string name="x">|x|</string>
+    <string name="x_y">x^y</string>
+    <string name="_10_x">10^X</string>
+    <string name="n">n!</string>
+    <string name="x_2">x^2</string>
+    <string name="sqrt">sqrt</string>
+    <string name="apotelesma">Αποτέλσεμα</string>
+    <string name="clear">Clear</string>
+</resources>
